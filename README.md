@@ -1,4 +1,4 @@
-# nextjs-whatsapp-clone-starter
+# ChatappS&A Starter
 
 
 Hi I am Shubham Kumar Jha and I am along with Aryan Patel. We have developed this Chatapp.
